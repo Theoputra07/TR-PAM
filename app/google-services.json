@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "33528779012",
+    "project_id": "tugasakhir-641a1",
+    "storage_bucket": "tugasakhir-641a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33528779012:android:2ea1d780d38f509b644051",
+        "android_client_info": {
+          "package_name": "com.example.tas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33528779012-ps2u99bmo92u2h8iplvoqln4jeenhsf1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tas",
+            "certificate_hash": "edd94cbaca99c36ef170a4269b912dd3643c0a5d"
+          }
+        },
+        {
+          "client_id": "33528779012-otm5ufdsik6aibhj84j5ispmngi096il.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8jA5a2F0h4NGjn8J2Katk3caFh6ggeyk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33528779012-otm5ufdsik6aibhj84j5ispmngi096il.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
